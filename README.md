@@ -22,18 +22,12 @@ El proyecto se basa en la arquitectura de Spring MVC y utiliza un proyecto Maven
 
 3. Integración con Spring MVC: La arquitectura de Spring MVC proporciona un enfoque estructurado para el desarrollo de la aplicación. Permite la separación de responsabilidades a través del patrón Modelo-Vista-Controlador (MVC) y facilita la implementación de características como enrutamiento, gestión de formularios y control de flujo de la aplicación.
 
-## Instalación y Configuración
+## Indice de implementacion
 
-1. Clona el repositorio de PortafolioFullStack en tu máquina local.
-2. Configura la base de datos MySQL y asegúrate de que esté en funcionamiento.
-3. Importa el proyecto Maven en tu IDE preferido.
-4. Actualiza la configuración de conexión a la base de datos en el archivo de configuración correspondiente.
-5. Ejecuta la aplicación en Apache Tomcat 9.0.71.
-6. Accede a la página web a través de tu navegador y comienza a explorar las aplicaciones funcionales implementadas.
-
-## Contribuciones
-
-Si deseas contribuir a PortafolioFullStack, eres bienvenido(a) a enviar pull requests con tus mejoras o nuevas funcionalidades. Asegúrate de seguir las mejores prácticas de desarrollo y de realizar pruebas exhaustivas antes de enviar tu contribución.
+1. Consultas a la base de datos
+2. Prueba unitaria
+3. Pagina web html y css
+4. Spring MVC
 
 ## Contacto
 
