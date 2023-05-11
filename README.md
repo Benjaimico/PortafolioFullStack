@@ -31,7 +31,7 @@ El proyecto se basa en la arquitectura de Spring MVC y utiliza un proyecto Maven
 
 ## Contacto
 
-Si tienes alguna pregunta o sugerencia sobre PortafolioFullStack, no dudes en ponerte en contacto con nuestro equipo a través de la siguiente dirección de correo electrónico: [benjapavezp@hotmail.com]
+Si tienes alguna pregunta o sugerencia sobre PortafolioFullStack, no dudes en ponerte en contacto a través de la siguiente dirección de correo electrónico: [benjapavezp@hotmail.com]
 
 Esperamos que disfrutes explorando las funcionalidades y aplicaciones de PortafolioFullStack. ¡Gracias por tu interés en nuestro proyecto!
 
