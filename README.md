@@ -24,10 +24,10 @@ El proyecto se basa en la arquitectura de Spring MVC y utiliza un proyecto Maven
 
 ## Indice de implementacion
 
-1. Consultas a la base de datos
-2. Prueba unitaria
-3. Pagina web html y css
-4. Spring MVC
+1. Consultas a la base de datos (ImplUsuarioDao, ImplAdminDao, ImplClienteDao linea 25 a 36)
+2. Prueba unitaria (Carpeta modelo, TestUsuario)
+3. Pagina web html y css (Dentro de webapp, carpetas resources y WEB-INF)
+4. Spring MVC (pom.xml)
 
 ## Contacto
 
